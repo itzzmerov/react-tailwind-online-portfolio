@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://linkedin.com/in/itzzmerov',
             style: 'rounded-tr-md'
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/',
+            href: 'https://github.com/itzzmerov',
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                     Email <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:sample.email@gmail.com',
+            href: 'mailto:balingbing.johnrovie20@gmail.com',
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: './resume.pdf',
+            href: './sample-resume.pdf',
             style: 'rounded-br-md',
             download: true,
         },
